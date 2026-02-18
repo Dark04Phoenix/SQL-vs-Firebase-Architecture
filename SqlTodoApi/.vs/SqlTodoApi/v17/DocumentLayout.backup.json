@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\sqltodoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\sqltodoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\migrations\\todocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\migrations\\todocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\migrations\\20250801203427_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\migrations\\20250801203427_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|c:\\users\\amejd\\source\\repos\\sqltodoapi\\sqltodoapi\\sqltodoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}|SqlTodoApi\\SqlTodoApi.csproj|solutionrelative:sqltodoapi\\sqltodoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlTodoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\SqlTodoApi.csproj",
+              "RelativeDocumentMoniker": "SqlTodoApi\\SqlTodoApi.csproj",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\SqlTodoApi.csproj",
+              "RelativeToolTip": "SqlTodoApi\\SqlTodoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T18:04:59.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SqlTodoApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\appsettings.json",
+              "RelativeToolTip": "SqlTodoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T20:32:13.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "SqlTodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Program.cs",
+              "RelativeToolTip": "SqlTodoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:32:29.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "SqlTodoApi\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "SqlTodoApi\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:28:26.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "SqlTodoApi\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "SqlTodoApi\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:26:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250801203427_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Migrations\\20250801203427_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SqlTodoApi\\Migrations\\20250801203427_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Migrations\\20250801203427_InitialCreate.cs",
+              "RelativeToolTip": "SqlTodoApi\\Migrations\\20250801203427_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:34:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Migrations\\TodoContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SqlTodoApi\\Migrations\\TodoContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Migrations\\TodoContextModelSnapshot.cs",
+              "RelativeToolTip": "SqlTodoApi\\Migrations\\TodoContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:30:22.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Controllers\\TaskItemsController.cs",
+              "RelativeDocumentMoniker": "SqlTodoApi\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Controllers\\TaskItemsController.cs",
+              "RelativeToolTip": "SqlTodoApi\\Controllers\\TaskItemsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:02:05.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlTodoApi",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\SqlTodoApi.csproj",
+              "RelativeDocumentMoniker": "SqlTodoApi\\SqlTodoApi.csproj",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\SqlTodoApi.csproj",
+              "RelativeToolTip": "SqlTodoApi\\SqlTodoApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T22:14:27.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SqlTodoApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AMejd\\source\\repos\\SqlTodoApi\\SqlTodoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SqlTodoApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T22:15:56.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

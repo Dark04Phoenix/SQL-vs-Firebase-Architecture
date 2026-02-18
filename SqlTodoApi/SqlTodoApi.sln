@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlTodoApi", "SqlTodoApi\SqlTodoApi.csproj", "{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09B43B2-DE5E-48C2-8397-BEA1D0BE78D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C966B8-E6E2-4013-89A5-A3C1293240D2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@SqlTodoApi_HostAddress = http://localhost:5124
+
+GET {{SqlTodoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

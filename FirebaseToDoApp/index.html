@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8" />
+  <title>Firebase To-Do App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+  <!-- Firebase compat SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
+</head>
+<body>
+  <h1>Firebase To-Do App</h1>
+
+  <div class="card">
+    <div class="grid">
+      <input type="text" id="taskTitle" placeholder="Titel" />
+      <input type="text" id="taskDesc" placeholder="Beskrivelse" />
+      <select id="taskPriority">
+        <option value="Low">Lav</option>
+        <option value="Medium" selected>Mellem</option>
+        <option value="High">Høj</option>
+      </select>
+      <input type="date" id="taskDue" />
+      <input type="text" id="taskLabels" placeholder="#labels (komma eller mellemrum)" />
+    </div>
+    <div class="actions">
+      <button id="submitBtn" onclick="addTask()">Tilføj opgave</button>
+      <button class="secondary" onclick="saveTemplate()">Gem skabelon</button>
+      <select id="templateSelect"></select>
+      <button class="secondary" onclick="applySelectedTemplate()">Brug skabelon</button>
+    </div>
+  </div>
+
+  <div class="card filters">
+    <div class="grid">
+      <select id="filterStatus" onchange="render()">
+        <option value="all">Alle</option>
+        <option value="open" selected>Åbne</option>
+        <option value="done">Færdige</option>
+      </select>
+      <select id="filterPriority" onchange="render()">
+        <option value="all" selected>Alle prioriteter</option>
+        <option value="High">Høj</option>
+        <option value="Medium">Mellem</option>
+        <option value="Low">Lav</option>
+      </select>
+      <input type="text" id="filterLabel" placeholder="Filter: #label" oninput="render()" />
+      <select id="sortBy" onchange="render()">
+        <option value="updatedAt">Sorter: Senest opdateret</option>
+        <option value="dueDate">Sorter: Forfaldsdato</option>
+        <option value="priority">Sorter: Prioritet</option>
+      </select>
+    </div>
+  </div>
+
+  <h2>Alle opgaver</h2>
+  <ul id="taskList"></ul>
+
+  <template id="taskItemTpl">
+    <li class="task-item">
+      <div class="info">
+        <div class="titleline">
+          <span class="title"></span>
+          <span class="badge prio"></span>
+          <span class="badge due"></span>
+        </div>
+        <div class="desc"></div>
+        <div class="labels"></div>
+      </div>
+      <div class="btns">
+        <button class="done-btn"></button>
+        <button class="focus-btn">Fokus</button>
+        <button class="edit-btn">Rediger</button>
+        <button class="delete-btn">Slet</button>
+      </div>
+    </li>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>
